@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="ityou.training"
+      interface="ityou.training.interfaces.IItyouTrainingLayer"
+      />
+</layers>
